@@ -25,6 +25,19 @@ Best Football player ***Messi*** plays for that club Barcelona. Barcelona, the c
     * Sweatshirts
     * Campwear 
 **[LinktoAboutme.md](AboutMe.md)**
+---
+
+# Create the Table containing food and drinks
+
+Indroduction:
+ The Following Table describes about the four food items/drinks you would recommend to your friends.
+
+|Mandatory|fav1         |fav2         |fav3         |fav4          |
+|:------: |:------:     |:------:     |:------:     |:------:      |
+|  Food   |   Chicken   |   Idly      |  OreoShake  |  Ice Cream   |
+| Location|   chennai   |   Guntur    |  Warangal   |  Vijaywada   |
+|  Type   |   cheese    |   sambar    | extra thick |   vannila    |
+|  Amount |    40-50    |   10-15     |    20-25    |    15-20     |
 
 
 
