@@ -15,11 +15,18 @@ Best Football player ***Messi*** plays for that club Barcelona.
     1. Terminal Departures
     2. Take a flight to chicago
 3. Chicago International Airport,
-    1.International Departures
-    2.Take a flight to Barcelona
+    1. International Departures
+    2. Take a flight to Barcelona
 4. Barcelona
     1. Take a metro infront of airport
     2. Board after reaching CampNou
+* Items to be packed
+    * Clothes
+    * Shoes
+    * Football Jersey
+    * Sweatshirts
+    * Campwear 
+    
 
 
 
