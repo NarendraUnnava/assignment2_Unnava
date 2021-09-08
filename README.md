@@ -39,6 +39,17 @@ Indroduction:
 |  Type   |   cheese    |   sambar    | extra thick |   vannila    |
 |  Amount |    40-50    |   10-15     |    20-25    |    15-20     |
 
+----
+# Quotes Section
+>A “Be yourself; **everyone else** is already taken.”.
+>Author: *Oscar Wilde* <br>
+>“Two things are infinite: the **universe and human stupidity;** and I'm not sure about the universe.”
+>Author:*Albert Einstein*
+
+
+
+
+
 
 
 
