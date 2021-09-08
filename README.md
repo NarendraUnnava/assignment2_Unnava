@@ -41,7 +41,7 @@ Indroduction:
 
 ----
 # Quotes Section
->A “Be yourself; **everyone else** is already taken.”.
+>A “Be yourself; **everyone else** is already taken.”
 >Author: *Oscar Wilde* <br>
 >“Two things are infinite: the **universe and human stupidity;** and I'm not sure about the universe.”
 >Author:*Albert Einstein*
