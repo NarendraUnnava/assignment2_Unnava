@@ -20,6 +20,8 @@ Best Football player ***Messi*** plays for that club Barcelona. Barcelona, the c
     2. Board after reaching CampNou
 * Items to be packed
     * Clothes
+        * sweaters
+        * hats
     * Shoes
     * Football Jersey
     * Sweatshirts
